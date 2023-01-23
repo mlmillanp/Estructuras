@@ -13,7 +13,6 @@ public class Perro {
         this.raza = raza;
     }
 
-
     public String getRaza() {
         return raza;
     }
